@@ -15,35 +15,33 @@ Paper leads: Colligan and Kelly
 ## Week 2 (1/27 - 1/31)
 Kingma and Ba, ADAM: A Method for Stochastic Optimization, ICLR 2015
 
-Paper leads: Johnson and Martin 
+Paper leads: Martin and St. George
 
 02\_adam.pdf
 
 ## Week 3 (2/3 - 2/7)
 Ben-Nun and Hoefler, Demistifying Parallel and Distributed Deep Learning, arXiv:1802.09941v2
 
-Paper leads: Walling and Lucke
+Paper leads: Walling, Lucke, and Anderson
 
-03\_resnet\_cnn.pdf
+03\_parallelism.pdf
 
 ## Week 4 (2/10 - 2/14)
 He, Zhang, Ren, and Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385v1
 
-Paper leads: Dunbar and Stansberry
-
+Paper leads: Dunbar, Stansberry, and Thibeau
 04\_resnet\_cnn.pdf
 
 ## Week 5 (2/17 - 2/21)
 Hochreiter and Schmidhuber, Long Short-Term Memory, Neural Computation, 1997
 
-Paper leads: Mayer and Tabibian
-
+Paper leads: Mayer and Donahue
 05\_lstm.pdf
 
 ## Week 6 (2/24 - 2/28)
 Mnih et al., Human-level control through deep reinforcement learning, Nature, 2015
 
-Paper leads: Brust and Finley
+Paper leads: Brust, Finley, and Olson
 
 06\_deepreinforcementlearning.pdf
 
