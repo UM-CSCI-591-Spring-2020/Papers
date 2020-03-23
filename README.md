@@ -1,5 +1,7 @@
 # Papers
 
+TELECONFERENCE LINK FOUND [HERE!](https://umontana.zoom.us/j/9165828078)
+
 ## Week 0 (1/13 - 1/17)
 LeCun, Bengio, and Hinton, Deep Learning, Nature, 2015
 
@@ -51,6 +53,21 @@ Radford, Metz, and Chintala, Unsupervised Representation Learning with Deep Conv
 Paper leads: Bunt and Roddy
 
 07\_dcgan.pdf
+
+## Week 8 (3/9 - 3/13)
+Doersch, Tutorial on Variational Autoencoders, arXiv: 1606:05908v2
+Paper leads: Colligan, Meyer, and Finley
+
+08\_variational\_autoencoders.pdf
+
+## Week 9 (3/23 - 3/27)
+Han, Mao, and Dally, Deep Compression: Compressing deep neural networks with pruning, trained quantization, and Huffman Coding. arXiv: 1510.00149v5
+
+Paper leads: Lucke and Donahue
+
+## Week 10 (3/30 - 4/03)
+
+
 
 ## Paper Suggestions for Weeks 8-14
 Below are a list of papers that would be interesting and suitable for the second half of the semester, but I also encourage you to come up with your own!
