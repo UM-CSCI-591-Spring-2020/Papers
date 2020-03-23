@@ -64,23 +64,40 @@ Paper leads: Colligan, Meyer, and Finley
 Han, Mao, and Dally, Deep Compression: Compressing deep neural networks with pruning, trained quantization, and Huffman Coding. arXiv: 1510.00149v5
 
 Paper leads: Lucke and Brinkerhoff
+Quiz Link: https://forms.gle/xztyEsRQGgVnCNnR8
 
 ## Week 10 (3/30 - 4/03)
+Elhoushi et al., DeepShift: Towards Multiplication-Less Neural Networks
 
+Paper leads: Roddy and Anderson
 
+## Week 11 (4/06 - 4/10)
+Chen et al., Neural Ordinary Differential Equations
 
-## Paper Suggestions for Weeks 8-14
+Paper leads: Stansberry, Brust, and Dunbar
+
+## Week 12 (4/13 - 4/17)
+Silver et al., Mastering the game of Go without human knowledge
+
+Paper leads: Martin and St. George
+
+## Week 13 (4/20 - 4/24)
+Vaswani, et al.: Attention Is All You Need
+Kitaev, Kaiser, and Levskaya: Reformer: The Efficient Transformer
+
+Paper leads: Olson, Walling, and Bunt
+
+## Week 14 (4/27 - 5/01)
+Szegedy et al.: Intriguing properties of neural networks
+
+Paper leads: Thibeau, Kelly, and Donahue
+
+## Other interesting papers that we won't get to 
 Below are a list of papers that would be interesting and suitable for the second half of the semester, but I also encourage you to come up with your own!
-
-Szegedy et al. - Intriguing Properties of Neural Networks: How to construct adversarial images that cause a network to fail in surprising ways.
-
-Viswani et al. - Attention is all you need: Introduction to the Transformer, the current state of the art architecture for language modelling.
 
 Ioffre et al. - Batch Normalization: Increasing learning speed by learning a normalizing step between layers.
 
 Zhu et al. - Unpaired image-to-image translation: How to transfer characteristics between images without having to explicitly pair them.
-
-Han et al. - Deep Compression: A handful of techniques for reducing the size of neural networks without performance loss.
 
 Han et al. - SqueezeNet: A concrete example of the above.
 
@@ -92,17 +109,9 @@ Blei et al. - Variational Inference: a review for statisticians: Similar to the 
 
 Wu et al. - Bridging the Gap between Human and Machine Translation: An overview of how Google's neural machine translation system works.
 
-Chen et al. - Neural Ordinary Differential Equations: An award winning paper that answers the question "what happens when you build a ResNet with an infinite number of layers?"
-
 Graves et al. - Neural Turing Machines: Taking advantage of the Turing-completeness of RNNs by hooking one to an addressable and learnable external memory.
 
 Johnson et al. - Perceptual Losses for Real-Time Style Transfer and Super-Resolution: Teaching neural networks to learn to make other neural networks happy, with applications to some real Men In Black type stuff.
-
-
-
-
-
-
 
 
 
