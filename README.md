@@ -63,7 +63,7 @@ Paper leads: Colligan, Meyer, and Finley
 ## Week 9 (3/23 - 3/27)
 Han, Mao, and Dally, Deep Compression: Compressing deep neural networks with pruning, trained quantization, and Huffman Coding. arXiv: 1510.00149v5
 
-Paper leads: Lucke and Donahue
+Paper leads: Lucke and Brinkerhoff
 
 ## Week 10 (3/30 - 4/03)
 
