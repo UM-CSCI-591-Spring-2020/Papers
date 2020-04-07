@@ -86,12 +86,12 @@ Paper leads: Martin and St. George
 Vaswani, et al.: Attention Is All You Need
 Kitaev, Kaiser, and Levskaya: Reformer: The Efficient Transformer
 
-Paper leads: Olson, Walling, and Bunt
+Paper leads: Olson, Walling, and Donahue
 
 ## Week 14 (4/27 - 5/01)
 Szegedy et al.: Intriguing properties of neural networks
 
-Paper leads: Thibeau, Kelly, and Donahue
+Paper leads: Thibeau, Kelly, and Bunt
 
 ## Other interesting papers that we won't get to 
 Below are a list of papers that would be interesting and suitable for the second half of the semester, but I also encourage you to come up with your own!
